@@ -69,10 +69,6 @@ class.loader{
     background-color: #49108b;
     animation-delay: -6.4s;
 }
-.dot:nth-child(10):before{
-    background-color:beige;
-    animation-delay: -7.2;
-}
 
 @keyframes bounce{
     0% {
