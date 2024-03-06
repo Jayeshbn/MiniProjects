@@ -1,2 +1,2 @@
 # jayesh
-projects based on html, css and js
+projects based on html, css, js, bootstrap and react
