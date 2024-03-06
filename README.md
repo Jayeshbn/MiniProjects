@@ -1,2 +1,2 @@
 # jayesh
-projects based on html, css, js, tailwind-css and react
+projects based on html, css, js, tailwind-css and reactjs
